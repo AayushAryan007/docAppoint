@@ -26,11 +26,12 @@ const navLinks = [
 const Header = () => {
   const headerRef = useRef(null);
   const menuRef = useRef(null);
+
   const handleStickyHeader = () => {
     window.addEventListener("scroll", () => {
       if (
         document.body.scrollTop > 80 ||
-        document.socumentElement.scrollTop > 80
+        document.documentElement.scrollTop > 80
       ) {
         headerRef.current.classList.add("sticky__header");
       } else {
