@@ -58,7 +58,7 @@ const Header = () => {
           </div>
 
           {/* {=========menu==========} */}
-          <div className="navigation" ref={menuRef}>
+          <div className="navigation" ref={menuRef} onClick={toggleMenu}>
             <ul className="menu flex items-center gap-[2.7rem]">
               {navLinks.map((link, index) => (
                 <li key={index}>
