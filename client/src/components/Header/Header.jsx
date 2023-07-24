@@ -27,7 +27,7 @@ const Header = () => {
   const headerRef = useRef(null);
   const menuRef = useRef(null);
   const handleStickyHeader = () => {
-    BiWindows.addEventListener("scroll", () => {
+    window.addEventListener("scroll", () => {
       if (
         document.body.scrollTop > 80 ||
         document.socumentElement.scrollTop > 80
@@ -42,8 +42,11 @@ const Header = () => {
   useEffect(() => {
     handleStickyHeader();
 
-    return () => windows.removeEventListener("scroll", handleStickyHeader);
+    return () => window.removeEventListener("scroll", handleStickyHeader);
   });
+
+
+  const
 
   return (
     <header className="header flex items-center" ref={headerRef}>
