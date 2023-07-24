@@ -3,7 +3,7 @@ import logo from "../../assets/images/logo.png";
 import userImg from "../../assets/images/avatar-icon.png";
 import { BiMenu } from "react-icons/bi";
 import { Link, NavLink } from "react-router-dom";
-
+import "../../App.css";
 const navLinks = [
   {
     path: "/home",
@@ -45,8 +45,7 @@ const Header = () => {
     return () => window.removeEventListener("scroll", handleStickyHeader);
   });
 
-
-  const
+  const toggleMenu = () => menuRef.current.classList.toggle("show__menu");
 
   return (
     <header className="header flex items-center" ref={headerRef}>
@@ -58,7 +57,7 @@ const Header = () => {
           </div>
 
           {/* {=========menu==========} */}
-          <div className="navigation">
+          <div className="navigation" ref={menuRef} onClick={toggleMenu}>
             <ul className="menu flex items-center gap-[2.7rem]">
               {navLinks.map((link, index) => (
                 <li key={index}>
@@ -93,7 +92,7 @@ const Header = () => {
               </button>
             </Link>
 
-            <span className="md:hidden">
+            <span className="md:hidden" onClick={toggleMenu}>
               <BiMenu className="w-6 h-6 cursor-pointer" />
             </span>
           </div>
