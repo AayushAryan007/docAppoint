@@ -66,7 +66,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      {/* ===========hero section ends========== */}
+      {/* ==========hero section ends========== */}
     </>
   );
 };
