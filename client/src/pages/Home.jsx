@@ -1,6 +1,7 @@
 import React from "react";
 import heroImg01 from "../assets/images/hero-Img01.png";
-
+import heroImg02 from "../assets/images/hero-Img02.png";
+import heroImg03 from "../assets/images/hero-Img03.png";
 const Home = () => {
   return (
     <>
@@ -55,7 +56,11 @@ const Home = () => {
 
               <div className="flex gap-[30px] justify-end">
                 <div>
-                  <img src={heroImg01} alt=""></img>
+                  <img className="w-full" src={heroImg01} alt="" />
+                </div>
+                <div className="mt-[30px]">
+                  <img src={heroImg02} alt="" className="w-full mb-[30px]" />
+                  <img src={heroImg03} alt="" className="w-full mb-[30px]" />
                 </div>
               </div>
             </div>
