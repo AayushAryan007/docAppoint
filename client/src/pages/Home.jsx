@@ -9,7 +9,7 @@ const Home = () => {
       <>
         <section className="hero__section pt-[60px] 2xl:h-[800px]">
           <div className="container">
-            <div className="flex flex-grow lg:flex-row gap-[90px] items-center justify-between">
+            <div className="flex flex-col lg:flex-row gap-[90px] items-center justify-between">
               {/* ========hero content=========== */}
               <div>
                 <div className="lg:w-[570px]">
@@ -60,7 +60,7 @@ const Home = () => {
                 </div>
                 <div className="mt-[30px]">
                   <img src={heroImg02} alt="" className="w-full mb-[30px]" />
-                  <img src={heroImg03} alt="" className="w-full mb-[30px]" />
+                  <img src={heroImg03} alt="" className="w-full " />
                 </div>
               </div>
             </div>
