@@ -25,7 +25,7 @@ const Home = () => {
 
                   <button className="btn">Request and Appointment</button>
                 </div>
-                {/* ======hero content====== */}
+                {/* ======hero counter====== */}
                 <div className="mt-[30px] lg:mt-[70px] flex flex-col lg:flex-row lg:items-center gap-5 lg:gap-[30px]">
                   <div>
                     <h2 className="text-[36px] leading-[56px] lg:text-[44px] lg:leading-[54px] font-[700] text-headingColor">
@@ -50,7 +50,7 @@ const Home = () => {
                     <span className="w-[100px] h-2 bg-irisBlueColor rounded-full block mt-[-14px]"></span>
                     <p className="text__para">Patient Satisfaction</p>
                   </div>
-                </div>{" "}
+                </div>
               </div>
               {/* ========hero content=========== */}
 
