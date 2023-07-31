@@ -4,7 +4,7 @@ import heroImg02 from "../assets/images/hero-Img02.png";
 import heroImg03 from "../assets/images/hero-Img03.png";
 import { Link } from "react-router-dom";
 import icon01 from "../assets/images/icon01.png";
-import { BsRightArrow } from "react-icons/bs";
+import { BsArrowRight } from "react-icons/bs";
 
 const Home = () => {
   return (
@@ -101,9 +101,9 @@ const Home = () => {
 
                 <Link
                   to="/doctors"
-                  className="w-[44px] h-[44px] rounded-full border border-solid border-[#181A1E] mt-[30px] mx-auto flex items-center justify-centergroup hover:bg-primaryColor hover:border-none"
+                  className="w-[44px] h-[44px] rounded-full border border-solid border-[#181A1E] mt-[30px] mx-auto flex items-center justify-center group hover:bg-primaryColor hover:border-none"
                 >
-                  <BsRightArrow />
+                  <BsArrowRight className="group-hover:text-white w-6 h-5" />
                 </Link>
               </div>
             </div>
