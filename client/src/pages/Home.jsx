@@ -162,11 +162,11 @@ const Home = () => {
 
       {/*  ==link to doctor location appointment section ends== */}
 
-      {/*  ============About Section Starts=========== */}
+      {/*  ============About Section =========== */}
       <About />
       {/*  ============About Section ends============= */}
 
-      {/* ========Service Section starts====== */}
+      {/* ========Service Section  ====== */}
       <section>
         <div className="container">
           <div className="xl:w-[470px] mx-auto">
@@ -180,6 +180,9 @@ const Home = () => {
         </div>
       </section>
       {/* ========Service Section starts====== */}
+
+      {/* ======features section=========*/}
+      {/* ======features section ends=========*/}
     </>
   );
 };
