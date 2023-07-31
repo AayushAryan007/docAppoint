@@ -191,7 +191,7 @@ const Home = () => {
             {/* ====feature content===== */}
             <div className="xl:w-[670px]">
               <h2 className="heading">
-                get virtual treatment <br /> anytime.
+                Get virtual treatment <br /> anytime.
               </h2>
 
               <ul className="pl-4">
