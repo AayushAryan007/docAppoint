@@ -2,7 +2,10 @@ import React from "react";
 import heroImg01 from "../assets/images/hero-Img01.png";
 import heroImg02 from "../assets/images/hero-Img02.png";
 import heroImg03 from "../assets/images/hero-Img03.png";
+import { Link } from "react-router-dom";
 import icon01 from "../assets/images/icon01.png";
+import { BsRightArrow } from "react-icons/bs";
+
 const Home = () => {
   return (
     <>
@@ -91,6 +94,17 @@ const Home = () => {
                 <h2 className="text-[26px] leading-9 text-headingColor font-[700] text-center">
                   Find a Doctor
                 </h2>
+                <p className="text-[16px] leading-7 text-textColor font-[400] mt-4 text-center">
+                  World-class care for everyone. Our health system offers
+                  unmatched, expert health care.
+                </p>
+
+                <Link
+                  to="/doctors"
+                  className="w-[44px] h-[44px] rounded-full border border-solid border-[#181A1E] mt-[30px] mx-auto flex items-center justify-centergroup hover:bg-primaryColor hover:border-none"
+                >
+                  <BsRightArrow />
+                </Link>
               </div>
             </div>
           </div>
