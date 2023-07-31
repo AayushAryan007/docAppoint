@@ -2,6 +2,7 @@ import React from "react";
 import heroImg01 from "../assets/images/hero-Img01.png";
 import heroImg02 from "../assets/images/hero-Img02.png";
 import heroImg03 from "../assets/images/hero-Img03.png";
+import icon01 from "../assets/images/icon01.png";
 const Home = () => {
   return (
     <>
@@ -67,6 +68,34 @@ const Home = () => {
         </div>
       </section>
       {/* ==========hero section ends========== */}
+
+      <section>
+        <div className="container">
+          <div className="lg:w-[470px] mx-auto">
+            <h2 className="heading text-center">
+              Providing the best medical services
+            </h2>
+            <p className="text__para text-center">
+              World-class care for everyone. Our health system offers unmatched,
+              expert health care.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-[30x] mt-[30px] lg:mt-[55px]">
+            <div className="py-[30px] px-5">
+              <div className="flex items-center justify-center">
+                <img src={icon01} alt="" />
+              </div>
+
+              <div className="mt-[30px]">
+                <h2 className="text-[26px] leading-9 text-headingColor font-[700] text-center">
+                  Find a Doctor
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
   );
 };
