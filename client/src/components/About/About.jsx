@@ -14,6 +14,8 @@ const About = () => {
               <img src={aboutCardImg} alt="aboutCardImg" />
             </div>
           </div>
+
+          {/* ===about content ======== */}
         </div>
       </div>
     </section>
