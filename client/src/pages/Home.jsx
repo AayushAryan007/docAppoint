@@ -74,6 +74,7 @@ const Home = () => {
       </section>
       {/* ==========hero section ends========== */}
 
+      {/*  ==link to doctor location appointment section== */}
       <section>
         <div className="container">
           <div className="lg:w-[470px] mx-auto">
@@ -156,6 +157,11 @@ const Home = () => {
           </div>
         </div>
       </section>
+
+      {/*  ==link to doctor location appointment section ends== */}
+
+      {/*  ============About Section Starts=========== */}
+      {/*  ============About Section ends=========== */}
     </>
   );
 };
