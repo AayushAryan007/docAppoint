@@ -164,6 +164,10 @@ const Home = () => {
       {/*  ============About Section Starts=========== */}
       <About />
       {/*  ============About Section ends============= */}
+
+      {/* ========Service Section starts====== */}
+      <Service />
+      {/* ========Service Section starts====== */}
     </>
   );
 };
