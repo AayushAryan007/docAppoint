@@ -184,7 +184,7 @@ const Home = () => {
       </section>
       {/* ========Service Section starts====== */}
 
-      {/* ======features section=========*/}
+      {/* =============features section==============*/}
       <section>
         <div className="container">
           <div className="flex items-center justify-between flex-col lg:flex-row">
