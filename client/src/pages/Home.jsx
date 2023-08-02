@@ -169,7 +169,7 @@ const Home = () => {
       <About />
       {/*  ============About Section ends============= */}
 
-      {/* ========Service Section  ====== */}
+      {/* ========Service Section  ========= */}
       <section>
         <div className="container">
           <div className="xl:w-[470px] mx-auto">
@@ -188,7 +188,7 @@ const Home = () => {
       <section>
         <div className="container">
           <div className="flex items-center justify-between flex-col lg:flex-row">
-            {/* ====feature content===== */}
+            {/* =================feature content================== */}
             <div className="xl:w-[670px]">
               <h2 className="heading">
                 Get virtual treatment <br /> anytime.
