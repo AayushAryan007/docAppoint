@@ -12,6 +12,7 @@ import ServiceList from "../components/Services/ServiceList";
 import featureImg from "../assets/images/feature-img.png";
 import videoIcon from "../assets/images/video-icon.png";
 import avatarIcon from "../assets/images/avatar-icon.png";
+import DoctorList from "../components/Doctors/DoctorList";
 
 const Home = () => {
   return (
@@ -257,6 +258,7 @@ const Home = () => {
               unmatched,expert health care.
             </p>
           </div>
+          <DoctorList />
         </div>
       </section>
       {/* ==========our great doctors============= */}
