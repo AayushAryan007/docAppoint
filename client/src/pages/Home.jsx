@@ -262,6 +262,10 @@ const Home = () => {
         </div>
       </section>
       {/* ==========our great doctors============= */}
+
+      {/* ============faq Section============== */}
+      <section></section>
+      {/* ============faq Section ends============== */}
     </>
   );
 };
