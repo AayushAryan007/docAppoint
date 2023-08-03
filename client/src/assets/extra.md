@@ -1,81 +1,87 @@
 <!-- //readme -->
 
-# 👋🏻 Hey,
+# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# I am Hrishikesh , HRISHIKESH-CODER .
+## I'm a Computer Science and Engineering Student
 
-## I am a programmer
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play pool and snooker 🎱.
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50> I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50> I also know Java and like coding in Java .
-- <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30> I also like AWS, Amazon Web Services<br>
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> I have built some projects and am planning to build some more.<br>
+---
 
-## My Tech Stack
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
+### Spotify Playing 🎧
 
-  </tbody>
-</table>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=hrishikesh-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br>
+---
 
-  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
-    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:hrishipotter123@gmail.com">
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact with me 📝
+
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+
+<br />
+
+---
+
+### Languages and Tools 🛠
+
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<br/>
+
+---
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
   
-<br>
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+  
+<br/>
 
-![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
+---
 
-<br><br><br><br>
+### ⭐️ From [Bgstatic](https://github.com/Bgstatic)
 
-# THAT'S ME !
+---
 
-⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
+[website]: http://bilgehangecici.site/
+[instagram]: https://www.instagram.com/bilgehangecici
+[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
