@@ -15,6 +15,7 @@ import videoIcon from "../assets/images/video-icon.png";
 import avatarIcon from "../assets/images/avatar-icon.png";
 import DoctorList from "../components/Doctors/DoctorList";
 import FaqList from "../components/Faq/FaqList";
+import Testimonials from "../components/Testimonials/Testimonials";
 
 const Home = () => {
   return (
@@ -294,6 +295,8 @@ const Home = () => {
               unmatched,expert health care.
             </p>
           </div>
+
+          <Testimonials />
         </div>
       </section>
       {/* =========testimonials ends========= */}
