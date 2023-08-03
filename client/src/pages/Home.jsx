@@ -283,6 +283,9 @@ const Home = () => {
         </div>
       </section>
       {/* ============faq Section ends============== */}
+
+      {/* =========testimonials========= */}
+      {/* =========testimonials ends========= */}
     </>
   );
 };
