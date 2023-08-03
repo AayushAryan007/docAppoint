@@ -264,7 +264,11 @@ const Home = () => {
       {/* ==========our great doctors============= */}
 
       {/* ============faq Section============== */}
-      <section></section>
+      <section>
+        <div className="container">
+          <div className="flex justify-between gap-[50px] lg:gap-0"></div>
+        </div>
+      </section>
       {/* ============faq Section ends============== */}
     </>
   );
