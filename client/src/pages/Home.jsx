@@ -284,7 +284,18 @@ const Home = () => {
       </section>
       {/* ============faq Section ends============== */}
 
-      {/* =========testimonials========= */}
+      {/* =========testimonials============ */}
+      <section>
+        <div className="container">
+          <div className="xl:w-[470px] mx-auto">
+            <h2 className="heading text-center">What our patients say</h2>
+            <p className="text-para text-center">
+              World-classes care for everyone. Our health system offers
+              unmatched,expert health care.
+            </p>
+          </div>
+        </div>
+      </section>
       {/* =========testimonials ends========= */}
     </>
   );
