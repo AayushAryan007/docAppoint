@@ -15,6 +15,7 @@ import videoIcon from "../assets/images/video-icon.png";
 import avatarIcon from "../assets/images/avatar-icon.png";
 import DoctorList from "../components/Doctors/DoctorList";
 import FaqList from "../components/Faq/FaqList";
+import Footer from "../components/Footer/Footer";
 // import Testimonials from "../components/Testimonials/Testimonials";
 
 const Home = () => {
@@ -299,6 +300,9 @@ const Home = () => {
         </div>
       </section>
       {/* =========testimonials ends========= */}
+
+      {/* ===========footer section starts========= */}
+      <Footer />
     </>
   );
 };
