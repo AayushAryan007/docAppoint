@@ -129,6 +129,8 @@ const Footer = () => {
         </div>
       </div>
     </footer>
+
+    // end
   );
 };
 
