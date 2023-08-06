@@ -7,9 +7,9 @@ const Testimonials = () => {
   return (
     <div className="mt-[30px] lg:mt-[55px]">
       <Carousel
-        cols={3}
+        cols={2}
         rows={1}
-        gap={10}
+        gap={40}
         loop:true
         pagination={{ clickable: true }}
         responsiveClass:true
