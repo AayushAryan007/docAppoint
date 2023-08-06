@@ -11,6 +11,7 @@ const Testimonials = () => {
         rows={1}
         gap={10}
         loop:true
+        pagination={{ clickable: true }}
         responsiveClass:true
         breakpoints={{
           640: {
