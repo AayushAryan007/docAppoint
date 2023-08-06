@@ -16,6 +16,7 @@ import avatarIcon from "../assets/images/avatar-icon.png";
 import DoctorList from "../components/Doctors/DoctorList";
 import FaqList from "../components/Faq/FaqList";
 import Footer from "../components/Footer/Footer";
+import Testimonials from "../components/Testimonials/Testimonials";
 // import Testimonials from "../components/Testimonials/Testimonials";
 
 const Home = () => {
@@ -294,9 +295,9 @@ const Home = () => {
             <p className="text-para text-center">
               World-classes care for everyone. Our health system offers
               unmatched,expert health care.
-              <h1> MAKE a NEW TESTIMONIALS</h1>
             </p>
           </div>
+          <Testimonials />
         </div>
       </section>
       {/* =========testimonials ends========= */}
