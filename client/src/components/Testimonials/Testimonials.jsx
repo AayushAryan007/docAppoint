@@ -30,7 +30,7 @@ const Testimonials = () => {
             spaceBetween: 30,
           },
         }}
-        //breakpoints
+        ////////////////breakpoints///////////
       >
         <Carousel.Item>
           <div className="py-[30px] px-5 rounded-3">
