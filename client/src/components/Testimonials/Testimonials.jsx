@@ -7,10 +7,10 @@ const Testimonials = () => {
   return (
     <div className="mt-[30px] lg:mt-[55px]">
       <Carousel
-        cols={2}
+        cols={3}
         rows={1}
-        gap={40}
-        loop:true
+        gap={50}
+        loop:auto
         pagination={{ clickable: true }}
         responsiveClass:true
         breakpoints={{
@@ -30,6 +30,7 @@ const Testimonials = () => {
             spaceBetween: 30,
           },
         }}
+        //breakpoints
       >
         <Carousel.Item>
           <div className="py-[30px] px-5 rounded-3">
