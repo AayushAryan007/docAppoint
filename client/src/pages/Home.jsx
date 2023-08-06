@@ -302,7 +302,7 @@ const Home = () => {
       {/* =========testimonials ends========= */}
 
       {/* ===========footer section starts========= */}
-      <Footer />
+
       {/* ===========footer section ends========= */}
     </>
   );
